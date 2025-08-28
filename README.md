@@ -24,9 +24,9 @@ The chatbot can:
 ✅ Entity extraction with Gemini AI (current location, airport, service type, etc.)  
 ✅ Intelligent query routing (Weather vs. General Q&A)  
 ✅ Weather integration (OpenWeather API)  
-✅ Knowledge graph storage in **Neo4j** via **Graphiti**  
-✅ Retry logic for LLM rate limits  
-✅ Document ingestion (`file.txt`) with automatic hashing & re-indexing  
+✅ Knowledge graph storage in **Neo4j** via **Graphiti**.  
+✅ Retry logic for LLM rate limits.  
+✅ Document ingestion (`file.txt`) with automatic hashing & re-indexing.  
 
 ---
 
